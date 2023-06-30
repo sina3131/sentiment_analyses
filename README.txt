@@ -3,6 +3,9 @@ This code contains an analysis of the Amazon Reviews dataset using the NLTK Sent
 
 Dataset
 The dataset used for this analysis is the Amazon Reviews dataset obtained from Kaggle. It contains a collection of reviews for various products sold on Amazon. The dataset includes information such as the review text, product rating, and other metadata.
+Download the dataset from this link:
+https://www.kaggle.com/datasets/bittlingmayer/amazonreviews
+
 
 Analysis Steps
 Sentiment Analysis: The NLTK SentimentIntensityAnalyzer was employed to calculate sentiment scores for each review in the dataset. The SentimentIntensityAnalyzer provides a compound sentiment score that represents the overall sentiment polarity of a text.
